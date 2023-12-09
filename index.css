@@ -1,13 +1,9 @@
 body{
-    background-color: #202025;
+    background-color: #383434;
 
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
-    flex-direction: column;
-    place-items: center;
-    
-    max-width: 60%;
 }
 
 div{
@@ -16,8 +12,6 @@ div{
     height: 50vh;
     width: 50vh;
     overflow-y: hidden;
-
-    background-color: #383535;
 
     align-items: center;
     flex-direction: column;
