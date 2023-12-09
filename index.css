@@ -9,8 +9,9 @@ body{
 div{
     display: flex;
     justify-content: center;
-    height: 50vh;
-    width: 50vh;
+    align-items: flex-start;
+    height: 100%;
+    width: 80%;
     overflow-y: hidden;
 
     background-color: #383434;
