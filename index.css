@@ -12,6 +12,7 @@ div{
     height: 100vh;
     width: 80%;
 
+    border-radius: 10px;
     background-color: #383434;
 
     align-items: center;
