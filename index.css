@@ -1,0 +1,29 @@
+body{
+    background-color: #383434;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    width: 50vh;
+    overflow-y: hidden;
+
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color:whitesmoke;
+    font-size: 55px;
+    font-family: 'Roboto' sans-serif;
+}
+
+.imagen-logo {
+    width: 300px;
+    height: 300px;
+}

@@ -1,2 +1,0 @@
-# ronambulo.github.io
-hola
