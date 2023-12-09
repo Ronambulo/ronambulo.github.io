@@ -1,6 +1,6 @@
 body{
-    background-color: #202025;
-
+    background-color: #383434;
+    
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -13,7 +13,6 @@ div{
     width: 80%;
 
     border-radius: 10px;
-    background-color: #383434;
 
     align-items: center;
     flex-direction: column;
