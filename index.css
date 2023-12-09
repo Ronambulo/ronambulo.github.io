@@ -2,7 +2,7 @@ body{
     background-color: #202025;
 
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
     place-items: center;
