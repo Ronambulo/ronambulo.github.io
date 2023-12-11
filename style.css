@@ -5,7 +5,10 @@
 * {
   margin: 0;
   padding: 0;
-  border-radius: 50%;
+}
+
+img.profile-pic {
+    border-radius: 50%;
 }
 
 /* width */
@@ -132,6 +135,7 @@ a:hover {
   font-size: 1.5rem;
   color: black;
   text-decoration: none;
+  border-bottom: 2px solid lightgray;
   transition: all 0.3 ease-in-out;
 }
 
@@ -141,6 +145,8 @@ a:hover {
 
 .menu-links.open {
   max-height: 300px;
+  border: 2px solid;
+  border-radius: 10px;
 }
 
 .hamburger-icon.open span:first-child {
@@ -451,7 +457,7 @@ article .icon {
 }
 
 .email-icon {
-  height: 2.5rem;
+  height: 3rem;
 }
 
 /* FOOTER SECTION */
