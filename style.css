@@ -33,6 +33,7 @@ img.profile-pic {
 
 body {
   font-family: "Poppins", sans-serif;
+  height: 100vh;
 }
 
 html {
@@ -177,7 +178,7 @@ a:hover {
 
 section {
   padding-top: 4vh;
-  height: 96vh;
+  height: 100vh;
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -193,7 +194,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 100vh;
 }
 
 .section__pic-container {
